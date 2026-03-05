@@ -4,9 +4,9 @@ _This project aims to demonstrate how web scraping works, as well as data proces
 
 ---
 
-# Assignment Problems and Instructions
+# Proccess of The Project
 
-Kamu seorang Data Engineer yang sedang mengerjakan project data pipeline/ETL. Tugas kamu mengambil data dari halaman website, kemudian diolah dan disimpan ke dalam database PostgreSQL. Ikuti instruksi di bawah ini:
+I am a Data Engineer currently working on a data pipeline/ETL project. I extract data from a website page, then process and store it in a PostgreSQL database. The ETL process is explained as follows:
 
 ## A. Extract
 The first stage in the data pipeline is Extract. This process involves extracting data from a website page using web scraping as follows:
