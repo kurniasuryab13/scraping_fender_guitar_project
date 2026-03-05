@@ -4,7 +4,7 @@ _This project aims to demonstrate how web scraping works, as well as data proces
 
 ---
 
-# Proccess of The Project
+# Process of The Project
 
 I am a Data Engineer currently working on a data pipeline/ETL project. I extract data from a website page, then process and store it in a PostgreSQL database. The ETL process is explained as follows:
 
