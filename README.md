@@ -1,6 +1,6 @@
 # Web Scraping Project: Electric Guitars on sweelee.co.id
 
-_This project aims to demonstrate how web scraping works, as well as data processing and data cleaning using VSCode. It also shows how to analyze the data using PostgreSQL._
+_This project use Selenium to do the web scrapings, and then use Pandas to do the data processing and data cleaning with Python in VSCode. It also shows how to analyze the data using PostgreSQL._
 
 ---
 
